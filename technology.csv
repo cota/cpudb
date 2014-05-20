@@ -108,3 +108,4 @@ technology_id,manufacturer_id,name,year,technology,feature_size,channel_length,m
 107,15,,,CMOS,0.09,,10,copper,,,,http://en.wikipedia.org/wiki/SPARC64_V#SPARC64_V.2B
 108,15,,,CMOS,0.13,,8,copper,,,,http://en.wikipedia.org/wiki/SPARC64_V#cite_ref-9
 109,16,,2000,CMOS,0.18,0.1,6,,,2.2,,http://sandpile.org/impl/m2c3.htm
+110,9,,2012,CMOS,0.022,,,copper,,,,

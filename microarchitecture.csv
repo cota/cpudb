@@ -78,3 +78,4 @@ microarchitecture_id,manufacturer_id,name,isa,isa_version,isa_extensions,fp_pipe
 77,1,K75,,,,,,,,,,,,,,,,,,,,,,,,,
 78,7,Power ISA v2.06,,,,,,,,,,,,,,,,,,,,,,,,,
 79,9,Bonnel,,,,,,,,,,,,,,,,,,,,,,,,,
+80,9,Ivy Bridge,x86-64,,SSE4.2 AVX,,,6,3,3,3,5,6,168,,,,,,,,,,true,,false,
