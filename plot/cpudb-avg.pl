@@ -51,7 +51,7 @@ sub pr {
 	die;
     }
     my @arr = map { $_ / $n } @acc;
-    print join("\t", $past, $pastname, @arr), "\n";
+    print join("\t", "$past-07-01", $pastname, @arr), "\n";
     for (my $i = 0; $i < @acc; $i++) {
 	$acc[$i] = 0;
     }
