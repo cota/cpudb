@@ -14,6 +14,8 @@ all: $(TARGETS)
 %.avg: %.dat %-avg.pl
 	./$(basename $@)-avg.pl $< > $@
 
+.PRECIOUS: %.avg
+
 %.dat: %.pl
 	./$< > $@
 
